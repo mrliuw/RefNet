@@ -1,2 +1,2 @@
 # RefNet
-To run, please also downloaded attached datasets
+To run, please also download attached datasets
